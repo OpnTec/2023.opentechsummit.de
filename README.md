@@ -1,2 +1,2 @@
-# 2022.opentechsummit.de
-OpenTechSummit 2022 https://2022.opentechsummit.de
+# 2023.opentechsummit.de
+OpenTechSummit 2023 https://2023.opentechsummit.de
